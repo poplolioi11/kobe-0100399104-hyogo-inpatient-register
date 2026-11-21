@@ -1,0 +1,145 @@
+{
+  "historical_author": "約翰別麗（John Cutting Berry）",
+  "source_identity": "神戶大學附屬圖書館 0100399104",
+  "source": "https://da.lib.kobe-u.ac.jp/da/sc/0100399104/",
+  "source_image_viewer": "https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399104/601902.tiff/0,0,3008,4016/2200,/0/default.jpg",
+  "source_rights_policy": "https://lib.kobe-u.ac.jp/da/en/secondaryuse/",
+  "dataset_version": "0.1.0",
+  "scan_count": 12,
+  "content_scan_count": 12,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p11",
+      "label": {
+        "none": [
+          "11"
+        ]
+      },
+      "sha256": "d773e520bf599a6c942a98714b530bb0f8b6eefd2a69cf4c0a0a1bf3e606734c",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p12",
+      "label": {
+        "none": [
+          "12"
+        ]
+      },
+      "sha256": "f7628edc145be6938cbd8e9f6e6865945e3d95a47b283b3892d443086f3c980a",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p13",
+      "label": {
+        "none": [
+          "13"
+        ]
+      },
+      "sha256": "42b83580628f07a1518c685649b47ce0a8778c32fc6f6e3ca6428ada6bcf0f97",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p14",
+      "label": {
+        "none": [
+          "14"
+        ]
+      },
+      "sha256": "bbeae081e2c07c06d4b9497d10fcbf834c31245438f097329f4d2030cee8a5f3",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p15",
+      "label": {
+        "none": [
+          "15"
+        ]
+      },
+      "sha256": "cd7c2682ecb3c6b25b7f255084b7b68ac13d39228f8d900020b577ff0b98736c",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p16",
+      "label": {
+        "none": [
+          "16"
+        ]
+      },
+      "sha256": "a97da2b98149e4a4c24cad063471771fa974a0c80f84df999b45e8103b824bc5",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p17",
+      "label": {
+        "none": [
+          "17"
+        ]
+      },
+      "sha256": "60e9e40d0cb3712cf8f1eb2440b78be1f401d731fa6aafda5c785153d8c379b0",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p18",
+      "label": {
+        "none": [
+          "18"
+        ]
+      },
+      "sha256": "3ddd60b39894621ac89734622c890e46964a87219c9ace0a4da5ef47b0aa36dc",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p19",
+      "label": {
+        "none": [
+          "19"
+        ]
+      },
+      "sha256": "2a3872cd036f71f3542fb9907d519f0f4daf19f7fde445e9db80bc5bc69e33b7",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p21",
+      "label": {
+        "none": [
+          "21"
+        ]
+      },
+      "sha256": "839ef64448c414242efac0d65231a4dc551559f0975a92794b3a3da5255476d7",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p22",
+      "label": {
+        "none": [
+          "22"
+        ]
+      },
+      "sha256": "c85e2a62b02e19ea95c8bea4068bf8bdee72b93c855a70ba32c9fb720d287d6c",
+      "content_role": "inpatient-table"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://da.lib.kobe-u.ac.jp/files/0100399104/canvas/p23",
+      "label": {
+        "none": [
+          "23"
+        ]
+      },
+      "sha256": "bbdcc44dd4f7a9b9b368625beaf4c28219f8f455551f8239df86881bd83a12d3",
+      "content_role": "printed-summary"
+    }
+  ]
+}

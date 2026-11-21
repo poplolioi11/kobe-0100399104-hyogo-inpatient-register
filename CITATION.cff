@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '《治驗録》〈兵庫縣病院入院患者表〉（1873–1874 年住院紀錄，神戶大學 0100399104） / Chikenroku [Hyōgo Prefectural
+  Hospital Inpatient Register]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kobe-0100399104-hyogo-inpatient-register
+keywords:
+- 治驗録
+- 兵庫縣病院
+- 兵庫縣病院入院患者表
+- 約翰別麗
+- 明治醫學史
+- 住院病歷
+- 收治紀錄
+- 醫療救助
+- 照護紀錄
+- Chikenroku
+- Hyōgo Prefectural Hospital
+- John Cutting Berry
+- inpatient register
+- Meiji medicine
+- medical missions
+- case records
+- Kobe University
+- TEI
+- CSV
