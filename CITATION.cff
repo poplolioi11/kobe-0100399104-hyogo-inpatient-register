@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '《治驗録》〈兵庫縣病院入院患者表〉（1873–1874 年住院紀錄，神戶大學 0100399104） / Chikenroku [Hyōgo Prefectural
   Hospital Inpatient Register]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

@@ -2,12 +2,12 @@
   "historical_author": "約翰別麗（John Cutting Berry）",
   "source_identity": "神戶大學附屬圖書館 0100399104",
   "source": "https://da.lib.kobe-u.ac.jp/da/sc/0100399104/",
-  "source_image_viewer": "https://da.lib.kobe-u.ac.jp/files/iiif/1/40000/0100399104/601902.tiff/0,0,3008,4016/2200,/0/default.jpg",
+  "iiif_manifest": "https://da.lib.kobe-u.ac.jp/files/manifest/1/40000/0100399104.json",
   "source_rights_policy": "https://lib.kobe-u.ac.jp/da/en/secondaryuse/",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 12,
   "content_scan_count": 12,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,
